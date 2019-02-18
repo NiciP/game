@@ -1,5 +1,6 @@
-function Game()  {
-    this.check = (number) => {
-        return number;
+module.exports = function (player_1_choice, player_2_choice)  {
+    if (player_1_choice === player_2_choice) {
+        return 'draw';
     }
-}
+    
+};
