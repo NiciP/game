@@ -15,8 +15,8 @@ The win conditions are as follows:
 - Scissors > Paper
 
 #### INSTRUCTIONS:
-Clone from Github
-Run: npm test specs / features
-Run: npm run server
-Navigate to http://localhost:3000
+- Clone from Github
+- Run: npm test specs / features
+- Run: npm run server
+- Navigate to http://localhost:3000
 
